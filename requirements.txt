@@ -1,5 +1,5 @@
 Scrapy==0.22.2
-Twisted==14.0.0
+Twisted==19.7.0
 cffi==0.8.2
 cryptography==0.4
 cssselect==0.9.1
